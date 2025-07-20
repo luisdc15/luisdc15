@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Luis Andrade
 
-I'm a passionate and motivated Electronics Technician currently pursuing my **Bachelor of Science in Network Engineering and Security** at **WGU**.
+I'm a Network Operations and Security professional with a strong foundation in electronics and systems troubleshooting. I recently earned my **Bachelor of Science in Network Engineering and Security** from **Western Governors University**, and I hold several industry-recognized certifications in networking, cybersecurity, and Linux.
 
-💡 I enjoy solving technical problems, building network labs, and continuously learning about cybersecurity, Linux, and infrastructure automation.
+💡 I'm passionate about designing secure network infrastructures, building home labs, and staying on the cutting edge of modern IT practices.
 
 ---
 
