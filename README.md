@@ -11,7 +11,7 @@ I'm a Network Operations and Security professional with a strong foundation in e
 - **Networking:** VLANs, Inter-VLAN Routing, DHCP, ACLs, STP, EtherChannel, Port Security
 - **Security:** Cisco CyberOps, firewall rules, basic endpoint security practices
 - **Systems:** Windows 10/11, Linux (Ubuntu, Kali), system administration, CLI
-- **Tools:** Cisco Packet Tracer, Wireshark, GitHub, Linux CLI, Syslog, NTP
+- **Tools:** Cisco Packet Tracer, Wireshark, GitHub, Linux CLI
 - **Hardware:** Circuit analysis, diagnostics, device repair, cable management
 
 ---
