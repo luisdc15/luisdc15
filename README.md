@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Luis Andrade
 
-I'm a Network Operations and Security professional with a strong foundation in electronics and systems troubleshooting. I recently earned my **Bachelor of Science in Network Engineering and Security** from **Western Governors University**, and I hold several industry-recognized certifications in networking, cybersecurity, and Linux.
+IT Support Professional with over 4 years of experience in hardware troubleshooting, Active Directory 
+administration, and end-user support. Proven ability to resolve complex technical issues, manage IT assets, and 
+support Windows environments. 
 
 💡 I'm passionate about designing secure network infrastructures, building home labs, and staying on the cutting edge of modern IT practices.
 
