@@ -4,11 +4,11 @@ IT Support Professional with over 4 years of experience in hardware troubleshoot
 administration, and end-user support. Proven ability to resolve complex technical issues, manage IT assets, and 
 support Windows environments. 
 
-💡 I'm passionate about designing secure network infrastructures, building home labs, and staying on the cutting edge of modern IT practices.
+I'm passionate about designing secure network infrastructures, building home labs, and staying on the cutting edge of modern IT practices.
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 - **Networking:** VLANs, Inter-VLAN Routing, DHCP, ACLs, STP, EtherChannel, Port Security
 - **Security:** Cisco CyberOps, firewall rules, basic endpoint security practices
@@ -18,7 +18,7 @@ support Windows environments.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Cisco Certified Network Associate (CCNA)**
 - **Cisco CyberOps Associate**
@@ -31,7 +31,7 @@ support Windows environments.
 
 ---
 
-## 🌱 Interests
+## Interests
 
 - Network automation  
 - Home lab simulations (Packet Tracer, GNS3, VyOS)  
@@ -41,8 +41,8 @@ support Windows environments.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 📧 Email: luis.andrade.c7@gmail.com
+- Email: luis.andrade.c7@gmail.com
 
-Thanks for stopping by! 🚀
+Thanks for stopping by! 
