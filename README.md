@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luis Andrade
+#Hi, I'm Luis Andrade
 
 IT Support Professional with over 4 years of experience in hardware troubleshooting, Active Directory 
 administration, and end-user support. Proven ability to resolve complex technical issues, manage IT assets, and 
